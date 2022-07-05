@@ -5,4 +5,4 @@
 - testing
 
 ## Second heading
-![Dog](/test-github-pages/assets/dog.jpg)
+![Dog](/docs/assets/dog.jpg)
